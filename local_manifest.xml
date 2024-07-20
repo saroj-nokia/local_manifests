@@ -5,13 +5,13 @@
             clone-depth="1" />
     <!--Credit to zhengz/rik0612c for Sources and keeping our device alive -->                            
  <!--Tree -->
- <project path="device/xiaomi/rosy" name="android_device_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20" />
+ <project path="device/xiaomi/rosy" name="android_device_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
 
  <!--Kernel -->
- <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20" />
+ <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
 
  <!--Vendor -->
- <project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20" />
+ <project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
 
  <!--Other HALs-->
    
