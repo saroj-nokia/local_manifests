@@ -4,9 +4,6 @@
             fetch="https://github.com/saroj-nokia"
             clone-depth="1" />
    
-   <remote name="aepranata"
-            fetch="https://gitea.com/aepranata" />
-   
     <!--Credit to zhengz/rik0612c for Sources and keeping our device alive -->                            
  <!--Tree -->
  <project path="device/xiaomi/rosy" name="device_xiaomi_rosy" remote="saroj-nokia" revision="lineage-21.0" />
@@ -15,7 +12,7 @@
  <project path="kernel/xiaomi/rosy" name="android_kernel_xiaomi_rosy" remote="saroj-nokia" revision="lineage-21.0" />
 
  <!--Vendor -->
- <project path="vendor/xiaomi/rosy" name="atiga_vendor_xiaomi" remote="aepranata" revision="rosy" />
+ <project path="vendor/xiaomi/rosy" name="android-vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-21.0" />
 
  <!--Other HALs-->
    
