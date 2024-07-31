@@ -16,7 +16,7 @@
  <!--Vendor -->
  <project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
 
- <!--Other HALs--> 
+ <!--Gapps--> 
 <project path="vendor/gapps" name="vendor_gapps" remote="MindTheGapps" revision="tau" />
    
  <!--Other HALs-->
