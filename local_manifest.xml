@@ -14,6 +14,5 @@
  <project path="vendor/xiaomi/rosy" name="vendor-xiaomi_rosy" remote="saroj-nokia" revision="lineage-18.1" />
  
  <!--Extras -->
- <!--<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" /> -->
  
 </manifest>
