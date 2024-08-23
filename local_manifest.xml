@@ -22,7 +22,7 @@
  <project path="vendor/gapps" name="vendor_gapps" remote="saroj-nokia" revision="upsilon" />
 
   <!--Gcamgo-->
- <project path="vendor/gcgop" name="/vendor_gcgop" remote="saroj-nokia" revision="kasumi-v2" />
+ <project path="vendor/gcgop" name="vendor_gcgop" remote="saroj-nokia" revision="kasumi-v2" />
     
  <!--Other HALs-->
    
