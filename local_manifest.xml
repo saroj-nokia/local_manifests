@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-   <remote name="saroj-nokia"
+    <remote name="saroj-nokia"
             fetch="https://github.com/saroj-nokia"
             clone-depth="1" />
 
-   <remote 
+    <remote name="saroj-nokia"
             fetch="https://gitlab.com/saroj-nokia/"
             clone-depth="1" />
    
