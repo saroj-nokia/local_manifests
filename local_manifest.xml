@@ -3,8 +3,9 @@
    <remote name="saroj-nokia"
             fetch="https://github.com/saroj-nokia"
             clone-depth="1" />
-   <remote name="MindTheGapps"
-            fetch="https://gitlab.com/MindTheGapps/"
+   
+   <remote name="Saroj-Tajpuriya"
+            fetch="https://gitlab.com/Saroj-Tajpuriya/"
             clone-depth="1" />
     <!--Credit to zhengz/rik0612c for Sources and keeping our device alive -->                            
  <!--Tree -->
@@ -17,7 +18,7 @@
  <project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
 
  <!--Gapps--> 
-<project path="vendor/gapps" name="vendor_gapps" remote="MindTheGapps" revision="tau" />
+<project path="vendor/gapps" name="vendor_gapps" remote="Saroj-Tajpuriya" revision="tau" />
    
  <!--Other HALs-->
    
