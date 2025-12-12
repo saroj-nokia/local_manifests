@@ -12,6 +12,7 @@
 
  <!--Vendor -->
  <project path="vendor/xiaomi/rosy" name="android_vendor_xiaomi_rosy" remote="saroj-nokia" revision="lineage-20.0" />
+ <project path="vendor" name="keys-for-lineage20" remote="saroj-nokia" revision="main" />
    
  <!--Other HALs-->
    
